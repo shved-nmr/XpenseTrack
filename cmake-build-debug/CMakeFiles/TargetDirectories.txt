@@ -1,0 +1,3 @@
+C:/Users/erkki/CLionProjects/XpenseTrack/cmake-build-debug/CMakeFiles/XpenseTrack.dir
+C:/Users/erkki/CLionProjects/XpenseTrack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/erkki/CLionProjects/XpenseTrack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
